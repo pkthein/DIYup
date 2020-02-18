@@ -1,0 +1,5 @@
+# Information for Flask-Mail
+mail_server: ''
+mail_username: ''
+mail_password: ''
+
